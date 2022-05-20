@@ -1,0 +1,23 @@
+[
+     {
+          "bookName": "lamm",
+          "author": "Therese",
+          "pages": "666",
+          "id": "4Eg32pguIJA58qgE3Lobn",
+          "borrowed": true
+     },
+     {
+          "bookName": "bäbä",
+          "author": "gfgf",
+          "pages": "444",
+          "id": "w3BSqYnhfu4DUOXINpq4z",
+          "borrowed": true
+     },
+     {
+          "bookName": "svärdet i stenen",
+          "author": "bea",
+          "pages": "777",
+          "id": "iAWPuSYnpUleY0_pHtoD9",
+          "borrowed": true
+     }
+]
